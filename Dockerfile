@@ -33,3 +33,4 @@ RUN ln -sfn /work . \
     'work is the right place to keep your files with the --volume flag'/'PLEASE GO BACK' \
  && chmod -R a-w 'snorkel '* 'work '* \
  && chmod a-w .
+ 
